@@ -1,7 +1,7 @@
 import React from "react";
 
-import Logout from "./user/Logout";
+import Logout from "./user/Register";
 
 export default function App() {
-  return <Logout user="Kehinde Ogunnigbo" />;
+  return <Register />;
 }
